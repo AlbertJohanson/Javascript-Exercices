@@ -1,0 +1,19 @@
+{
+  "name": "javacodeexercice",
+  "version": "1.0.0",
+  "description": "A folder with javascript exercice for practice",
+  "main": "ValueReferemce.js",
+  "scripts": {
+    "exercice1": "node ValueReferemce.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertJohanson/Javascript-Exercices.git"
+  },
+  "author": "Albert Johanson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlbertJohanson/Javascript-Exercices/issues"
+  },
+  "homepage": "https://github.com/AlbertJohanson/Javascript-Exercices#readme"
+}
